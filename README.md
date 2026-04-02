@@ -6,8 +6,8 @@
   <h3>💻 GitHub档案 / Github Profile</h3>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  ![Top Langs](https://github-readme-status.sanyue.site/api/top-langs/?username=wyx8999h&theme=dracula&locale=cn&border_radius=12)
-  ![wyx8999's GitHub stats](https://github-readme-status.sanyue.site/api?username=wxy8999&theme=dracula&locale=cn&border_radius=12)
+  ![Top Langs](https://github-readme-status.sanyue.site/api/top-langs/?username=wyx8999&theme=dracula&locale=cn&border_radius=12)
+  ![wyx8999's GitHub stats](https://github-readme-status.sanyue.site/api?username=wyx8999&theme=dracula&locale=cn&border_radius=12)
   <br/>
 
   <h3>🔥 我的贡献 / Contributions</h3>
