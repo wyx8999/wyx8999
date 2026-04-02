@@ -1,8 +1,8 @@
 ## Hi, I'm 司机c 👋  
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
-    <img src="https://by.yx520.love/file/1775127986786_1-Macchiato_-澳门ootd｜回头率超高的复古穿搭_海边-20260211172655.jpg"
-style="width: 100px; height: 100px; object-fit: cover; margin-left: 20px;"
+    <img src="https://by.yx520.love/file/1775127986786_1-Macchiato_-澳门ootd｜回头率超高的复古穿搭_海边-20260211172655.jpg" 
+style="width: 100px; height: 100px; object-fit: cover; object-position: center; margin-left: 30px;" 
 alt="我的博客图片"/>
   </a>
   <h3>💻 GitHub档案 / Github Profile</h3>
