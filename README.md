@@ -53,7 +53,34 @@
 
 </div>
 
+---
 
+## 📞 联系我
+
+<div align="center">
+
+[![Website](https://zxy6.indevs.in/-个人网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zxy6.indevs.in/)
+
+[![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxy@zxy6.eu.cc)
+
+</div>
+
+---
+
+<div align="center">
+
+---
 
   <h3>❤️ 公益服务 / Public Service</h3>
   <h4>图床：<a href="https://by.ezlk.top">ImgHub(密码:zxy)</a></h4>
+
+---
+<div align="center">
+
+### 🎯 持续学习，持续进步
+
+*"坚信熟能生巧，努力改变人生"*
+
+⭐️ 如果喜欢，请给我一个Star吧！
+
+</div>
