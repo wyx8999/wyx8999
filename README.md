@@ -6,13 +6,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile;Hardworking+and+ambitious+programmers;Open+Source+Contributor)](https://git.io/typing-svg)
 
-
 ---
  
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
     <img src="https://by.yx520.love/file/1775133527913_DM_20250711194030_001.JPEG" style="height: 100px;" alt="我的博客图片"/>
   </a>
+
+  ---
+  
   <h3>💻 GitHub档案 / Github Profile</h3>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -25,6 +27,33 @@
   <p>
     <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=wyx8999&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
   </p>
+
+---
+
+## 💻 技术栈
+
+<div align="center">
+
+### 前端技术栈
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 工具 & 平台
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+
 
   <h3>❤️ 公益服务 / Public Service</h3>
   <h4>图床：<a href="https://by.ezlk.top">ImgHub(密码:zxy)</a></h4>
