@@ -1,4 +1,13 @@
-## Hi, I'm Callen 👋  
+<div align="center">
+
+# 🚀 Callen's World 🚀
+
+### 👋 Hi there! I'm a passionate programmer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Hardworking and ambitious programmers;Open+Source+Contributor)](https://git.io/typing-svg)
+
+---
+ 
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
     <img src="https://by.yx520.love/file/1775133527913_DM_20250711194030_001.JPEG" style="height: 100px;" alt="我的博客图片"/>
