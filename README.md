@@ -6,11 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile;Hardworking+and+ambitious+programmers;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <img align='right' src="./static/1.png" width="150" alt="person">
-</div>
-<hr style="margin: 0; border: none; border-top: 1px solid #ddd; margin-top: -75px;" />
+<img align='right' src="./static/avatar.png" width="150" alt="person">
+
  
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
