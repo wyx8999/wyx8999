@@ -38,7 +38,7 @@
   <div></div>
   <img align='right' src="./static/1.png" width="150" alt="person">
 </div>
-<hr style="margin: 0; border: none; border-top: 10px solid #ddd; margin-top: -200px;" />
+<hr style="margin: 0; border: none; border-top: 1px solid #ddd; margin-top: -75px;" />
   
   <h3>💻 GitHub档案 / Github Profile</h3>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
