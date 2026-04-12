@@ -56,13 +56,14 @@
 <img src="./static/character.svg" align='right' height="200">
 
 ---
+<div style="text-align: left; margin-bottom: 20px;">
   充满热情和理想的 Protagonist（ENFJ-T）<br>
   - 🌍 内向性: 58% <br>
   - 🔮 直觉性: 60% <br>
   - ❤️ 情感性: 82% <br>
   - 🧠 判断性: 63% <br>
   - 🌪️ 动荡性: 71%
-
+</div>
 ---
 
 ## 💻 技术栈
