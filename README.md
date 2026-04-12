@@ -9,12 +9,12 @@
 <img align='right' src="./static/1.png" width="150" alt="person">
 
 ---
- 
+<div style="text-align: center; width: 100%;">
   <h3>:snowman: 我的博客 / My Blog</h3>
   <a href="https://zxy6.indevs.in/">
     <img src="https://by.yx520.love/file/1775133527913_DM_20250711194030_001.JPEG" style="height: 100px;" alt="我的博客图片"/>
   </a>
-
+</div>
 <div style="margin-top: 10px; display: flex; gap: 28px; align-items: center;">
   <a href="https://zxy6.indevs.in/">
     <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
