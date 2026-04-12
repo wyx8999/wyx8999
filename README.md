@@ -53,6 +53,19 @@
     <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=wyx8999&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
   </p>
 
+### 🌟 性格方向 
+
+<img src="./static/character.svg" align='right' height="200">
+
+---
+充满热情和理想的 Protagonist（ENFJ-T）  
+- 🌍 内向性: 58%  
+- 🔮 直觉性: 60%  
+- ❤️ 情感性: 82%  
+- 🧠 判断性: 63%  
+- 🌪️ 动荡性: 71%
+
+
 ---
 
 ## 💻 技术栈
