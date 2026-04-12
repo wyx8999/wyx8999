@@ -6,11 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile;Hardworking+and+ambitious+programmers;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div></div>
-  <img align='right' src="./static/1.png" width="150" alt="person">
+<div style="display: flex; align-items: center; width: 100%; gap: 20px;">
+  <!-- 左边的分割线：占满剩余空间，垂直居中 -->
+  <hr style="flex: 1; border: none; border-top: 2px solid #ccc; margin: 0;" />
+  <!-- 右边的圆形头像：自动和分割线垂直居中 -->
+  <img src="./static/1.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" alt="person">
 </div>
-<hr style="margin: 0; border: none; border-top: 1px solid #ddd; margin-top: -75px;" />
 
  
   <h3>:snowman: 我的博客 / My Blog</h3>
