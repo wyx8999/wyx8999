@@ -13,6 +13,25 @@
     <img src="https://by.yx520.love/file/1775133527913_DM_20250711194030_001.JPEG" style="height: 100px;" alt="我的博客图片"/>
   </a>
 
+<a href="https://zxy6.indevs.in/">
+  <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
+</a>
+  <a href="zxy@zxy6.eu.cc">
+  <img align="center" alt="Cedric邮箱" width="22px" src="./static/icon/email.svg" />
+</a>
+<a href="https://zxy6.indevs.in/">
+  <img align="center" alt="个人博客" width="22px" src="./static/icon/blog.svg" />
+</a>
+<a href="https://by.yx520.love/login">
+  <img align="center" alt="个人相册" width="22px" src="./static/icon/gallery.svg" />
+</a>
+<a href="https://gitee.com/">
+  <img align="center" alt="gitee首页" width="22px" src="./static/icon/gitee.svg" />
+</a>
+<a href="https://www.github.com/wyx8999">
+  <img align="center" alt="github主页" width="22px" src="./static/icon/github.svg" />
+</a>
+
   ---
   
   <h3>💻 GitHub档案 / Github Profile</h3>
