@@ -1,5 +1,5 @@
 <div align="center">
-
+<img align='right' src="./static/1.png" width="150" alt="person">
 # 🚀 Callen's World 🚀
 
 ###  Hi there! I'm a passionate programmer <img src="./static/image.gif" width="30px" alt=""><br>
