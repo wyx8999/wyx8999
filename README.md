@@ -75,6 +75,8 @@
 
 <div align="center">
 
+[<img src="./static/icons.png" alt="点击进入个人站点">](https://www.liushen.fun)
+
 ### 前端技术栈
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
