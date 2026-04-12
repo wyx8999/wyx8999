@@ -55,8 +55,8 @@
 
 <h3>🚀 我的github活动 / Activities</h3>
 <p align="center">
-  <a href="https://blog.liushen.fun">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=willow-god&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  <a href="https://zxy6.indevs.in/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wyx8999&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
 </p>
   
