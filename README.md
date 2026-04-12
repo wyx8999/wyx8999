@@ -13,7 +13,10 @@
     <img src="https://by.yx520.love/file/1775133527913_DM_20250711194030_001.JPEG" style="height: 100px;" alt="我的博客图片"/>
   </a>
 
-<div style="margin-top: 10px; display: flex; gap: 12px; align-items: center;">
+<div style="margin-top: 10px; display: flex; gap: 18px; align-items: center;">
+  <a href="https://zxy6.indevs.in/">
+    <img align="center" alt="个人主页" width="22px" src="./static/icon/home.svg" />
+  </a>
   <a href="mailto:zxy@zxy6.eu.cc">
     <img align="center" alt="Cedric邮箱" width="22px" src="./static/icon/email.svg" />
   </a>
