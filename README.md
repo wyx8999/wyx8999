@@ -52,9 +52,15 @@
   <p>
     <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=wyx8999&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
   </p>
+
+<h3>🚀 我的github活动 / Activities</h3>
+<p align="center">
+  <a href="https://blog.liushen.fun">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=willow-god&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  </a>
+</p>
+  
 </div>
-
-
 
 <img src="./static/character.svg" align='right' height="200">
 
@@ -75,7 +81,7 @@
 
 <div align="center">
 
-[<img src="./static/icons.png" alt="点击进入个人站点">](https://www.liushen.fun)
+[<img src="./static/icons.png" alt="点击进入个人站点">](https://zxy6.indevs.in/)
 
 ### 前端技术栈
 
