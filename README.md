@@ -37,8 +37,9 @@
 </div>
 
 </div>
+
   ---
-  
+  <div align="center">
   <h3>💻 GitHub档案 / Github Profile</h3>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -51,6 +52,7 @@
   <p>
     <img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=wyx8999&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" />
   </p>
+</div>
 
 ### 🌟 性格方向 
 
