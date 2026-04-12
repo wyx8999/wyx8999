@@ -54,11 +54,12 @@
   </p>
 </div>
 
-### 🌟 性格方向 
+
 
 <img src="./static/character.svg" align='right' height="200">
 
 ---
+### 🌟 性格方向 
 <div style="text-align: left; margin-bottom: 20px;">
   充满热情和理想的 Protagonist（ENFJ-T）<br>
   - 🌍 内向性: 58% <br>
