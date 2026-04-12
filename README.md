@@ -34,7 +34,11 @@
   </a>
 </div>
 
-<img align='right' src="./static/1.png" width="150" alt="person">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div></div>
+  <img align='right' src="./static/1.png" width="150" alt="person">
+</div>
+<hr style="margin: 0; border: none; border-top: 1px solid #ddd; margin-top: -75px;" />
 
   ---
   
