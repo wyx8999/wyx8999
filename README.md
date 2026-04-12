@@ -6,11 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile;Hardworking+and+ambitious+programmers;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<div style="display: flex; align-items: center; width: 100%; gap: 20px;">
-  <!-- 左边的分割线：占满剩余空间，垂直居中 -->
-  <hr style="flex: 1; border: none; border-top: 2px solid #ccc; margin: 0;" />
-  <!-- 右边的圆形头像：自动和分割线垂直居中 -->
-  <img src="./static/1.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;" alt="person">
+<div style="position: relative; width: 100%; height: 150px;">
+  <hr style="position: absolute; top: 50%; transform: translateY(-50%); left: 0; right: 170px; border: none; border-top: 2px solid #ccc; margin: 0;" />
+  <img align='right' src="./static/1.png" width="150" style="border-radius: 50%;" alt="person">
 </div>
 
  
