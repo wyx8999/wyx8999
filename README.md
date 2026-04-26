@@ -109,6 +109,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-学习网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zxy6.indevs.in/)
+
 [![Website](https://img.shields.io/badge/Website-日常网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blog.cedric.fnrry.com/)
 
 [![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zxy@zxy6.eu.cc)
